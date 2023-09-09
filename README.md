@@ -313,12 +313,12 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 
 Change the color theme of the website - (choose 2 colors to create a gradient)
 
-Go to `/src/sass/abstracts/_variables.scss` and only change the values for this variables `$main-color` and `$secondary-color` with your prefered HEX color.
+Go to `/src/sass/abstracts/_variables.scss` and only change the values for this variables `$primary-color` and `$secondary-color` with your prefered HEX color.
 If you want to get some gradients inspiration I highly recommend you to check this website [UI Gradient](https://uigradients.com/#BrightVault)
 
 ```scss
 // Default values
-$main-color: #02aab0;
+$primary-color: #02aab0;
 $secondary-color: #00cdac;
 ```
 
