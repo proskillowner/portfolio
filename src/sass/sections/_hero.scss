@@ -19,17 +19,14 @@
 
   // If you want to set a background image on the hero section, uncomment these with your custom image
 
-  /* background: url("/src/assets/[your-image].png");
+  background-image: url('./assets/background-portrait.jpg');
   background-position: center;
-  background-size: cover; */
-  background-image: url('./assets/background.jpg');
-  background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
 
   @media screen and (max-aspect-ratio: 1920 / 1080) {
-    background-image: url('assets/background-portrait.jpg');
-    background-repeat: no-repeat;
-    background-size: contain;
+    // background-image: url('assets/background-portrait.jpg');
+    // background-repeat: no-repeat;
+    // background-size: contain;
   }
   
   @include respond(phone) {
