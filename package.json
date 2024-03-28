@@ -1,8 +1,8 @@
 {
   "name": "simplefolio",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "proskillowner",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobiwave/simplefolio"
+    "url": "git+https://github.com/proskillowner/portfolio"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
+    "url": "https://github.com/proskillowner/portfolio/issues"
   },
-  "homepage": "https://github.com/cobiwave/simplefolio#readme",
+  "homepage": "https://github.com/proskillowner/portfolio#readme",
   "devDependencies": {
     "parcel": "^2.8.2",
     "prettier": "^2.8.1"
